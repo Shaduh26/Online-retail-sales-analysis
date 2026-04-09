@@ -23,3 +23,14 @@ The goal was to clean the dataset, identify customer purchasing patterns, and cr
 - SQL_queries.sql
 - Tableau Visualizations
 - Dataset / Cleaned Data
+
+## Visualizations
+
+### Revenue by Country
+![Revenue by Country](images/revenue_by_country.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](images/monthly_revenue_trend.png)
+
+### Top 10 Customers by Revenue
+![Top Customers](images/top_customers.png)
