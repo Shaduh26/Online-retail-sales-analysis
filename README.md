@@ -11,7 +11,7 @@ The goal was to clean the dataset, identify customer purchasing patterns, and cr
 
 ## Key Business Questions
 - Which countries generate the most revenue?
-- Who are the top 10 customers by spending?
+- Who are the top 10 customers by revenue?
 - How does monthly revenue change over time?
 
 ## Key Insights
